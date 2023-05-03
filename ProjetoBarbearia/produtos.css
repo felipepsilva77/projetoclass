@@ -1,0 +1,39 @@
+header {
+    background-color:green;
+    padding: 50px;
+}
+
+#logo {
+    width: 100%;
+}
+
+.caixa {
+    width: 940px;
+    position: relative;
+    margin: 0;
+}
+
+nav {
+    position: absolute;
+    top: 100%;
+    right: 0;
+
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 30px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration:none;
+}
+
+nav a:hover {
+    color: aquamarine;
+    font-size: 30px;
+    
+}

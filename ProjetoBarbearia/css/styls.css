@@ -1,0 +1,17 @@
+body{
+    background-color:green
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color:black
+
+}
+
+p {
+    text-align: center;
+    background: white;
+    color: black;
+
+}
